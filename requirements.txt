@@ -1,0 +1,6 @@
+discord.py>=2.3.0
+yt-dlp
+beautifulsoup4
+aiohttp
+python-dotenv
+asyncio
